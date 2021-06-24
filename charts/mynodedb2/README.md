@@ -1,3 +1,3 @@
-# REPLACE_ME_APP_NAME
+# mynodedb2
 
 a microservice using a postgresql database
